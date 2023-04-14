@@ -3,17 +3,31 @@
   <img src="https://github.com/nach131/nach131/blob/main/Logos/banner.png" width="100%" alt="Banner">
 </div>
 
-<h3 align="center">A passionate frontend and Backeend developer from Barcelona</h3>
+<h3 align="center">A passionate frontend and Backeend developer</h3>
+
+Hello! I'm Nacho, a systems engineer and software engineering student at 42 Barcelona. I'm passionate about technology and software development, and I'm constantly learning and improving my skills.
+
+Here, you will find a variety of projects that I have worked on, from small personal projects to collaborations with other developers. I like to experiment with different programming languages and technologies.
+
+I specialize in creating scalable, reliable, and efficient software applications.
+
+One of my most notable projects is the game "So_Long", a simple yet addictive maze game made for 42. I have also worked on the game "Push_swap", an interesting and exciting puzzle game based on the push_swap project from 42.
+
+If you're interested in working with me on a project or just want to connect, please don't hesitate to contact me. I'm excited to meet new people and collaborate on exciting software projects!
+
+Thanks for visiting my profile!
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C](https://img.shields.io/badge/-000?&logo=C)
 ![solidity](https://img.shields.io/badge/-solidity-000?&logo=solidity)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![gnubash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 
 ### Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![OwnCloud](https://img.shields.io/badge/-OwnCloud-000?&logo=icloud)
@@ -26,7 +40,7 @@
 ![graphql](https://img.shields.io/badge/-graphql-000?&logo=graphql&logoColor=E10098)
 ![markdown](https://img.shields.io/badge/-markdown-000?&logo=markdown)
 
-### DataBase
+### DataBases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql)
 ![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
@@ -53,39 +67,5 @@
 </p>
 -->
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nach131/nach131/blob/main/Logos/raspberry.png" alt="raspberry" width="30" height="40"/> </a>
-</p> -->
 
 <!-- https://simpleicons.org/?q=mysql -->
-
-<!--
-**nach131/nach131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
