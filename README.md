@@ -47,7 +47,7 @@ Thanks for visiting my profile!
 ### DataBases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql&logoColor=fff)
-![mariadb](https://img.shields.io/badge/-mariadb-000?&logo=mariadb&logoColor=fff)
+![mysql](https://img.shields.io/badge/-mariadb-000?&logo=mariadb&logoColor=fff)
 ![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
 ### Operative Sistems
@@ -65,7 +65,12 @@ Thanks for visiting my profile!
 ![photohop](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-InDesign&logoColor=EE3D8F)
 
 
-<!-- ### Full Stack Projects -->
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/My%20Wiki-000?&logo=wikipedia)](https://wiki.enunpimpam.com)
+[![](https://img.shields.io/badge/Cloud%20Fondesal-000?&logo=icloud)](https://cloud.fondesal.com/)
+<!-- [![](https://img.shields.io/badge/🚀%20%20NASA-000)](https://nasa.enunpimpam.com) -->
+<!-- [![](https://img.shields.io/badge/🚀%20%20NFS-000)](https://nasa.enunpimpam.com) -->
 
 
 - 📫 How to reach me **nacho@enunpimpam.com**
