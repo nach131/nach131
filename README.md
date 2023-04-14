@@ -22,6 +22,8 @@ Thanks for visiting my profile!
 ![C](https://img.shields.io/badge/-000?&logo=C)
 ![solidity](https://img.shields.io/badge/-solidity-000?&logo=solidity)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![html5](https://img.shields.io/badge/-html5-000?&logo=html5)
+![jquery](https://img.shields.io/badge/-jquery-000?&logo=jquery&logoColor=0769AD)
 ![gnubash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 
 ### Technologies
@@ -30,6 +32,7 @@ Thanks for visiting my profile!
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![githubactions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
 ![OwnCloud](https://img.shields.io/badge/-OwnCloud-000?&logo=icloud)
 ![openvpn](https://img.shields.io/badge/-openvpn-000?&logo=openvpn)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)
@@ -38,11 +41,13 @@ Thanks for visiting my profile!
 ![webmin](https://img.shields.io/badge/-webmin-000?&logo=webmin)
 ![blockchaindotcom](https://img.shields.io/badge/-Blockchain-000?&logo=blockchaindotcom)
 ![graphql](https://img.shields.io/badge/-graphql-000?&logo=graphql&logoColor=E10098)
+![wordpress](https://img.shields.io/badge/-wordpress-000?&logo=wordpress&logoColor=21759B)
 ![markdown](https://img.shields.io/badge/-markdown-000?&logo=markdown)
 
 ### DataBases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql)
+![mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql&logoColor=fff)
+![mariadb](https://img.shields.io/badge/-mariadb-000?&logo=mariadb&logoColor=fff)
 ![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
 ### Operative Sistems
