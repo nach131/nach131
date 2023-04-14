@@ -3,7 +3,7 @@
   <img src="https://github.com/nach131/nach131/blob/main/Logos/banner.png" width="100%" alt="Banner">
 </div>
 
-<h3 align="center">A passionate frontend and Backeend developer</h3>
+<h3 align="center">A passionate Frontend and Backend developer</h3>
 
 Hello! I'm Nacho, a systems engineer and software engineering student at 42 Barcelona. I'm passionate about technology and software development, and I'm constantly learning and improving my skills.
 
@@ -11,7 +11,7 @@ Here, you will find a variety of projects that I have worked on, from small pers
 
 I specialize in creating scalable, reliable, and efficient software applications.
 
-One of my most notable projects is the game "So_Long", a simple yet addictive maze game made for 42. I have also worked on the game "Push_swap", an interesting and exciting puzzle game based on the push_swap project from 42.
+One of my most notable projects is the game [So_Long](https://github.com/nach131/so_long), a simple yet addictive maze game made for 42. I have also worked on the game [Push_Swap](https://github.com/nach131/push_swap_game), an interesting and exciting puzzle game based on the push_swap project from 42.
 
 If you're interested in working with me on a project or just want to connect, please don't hesitate to contact me. I'm excited to meet new people and collaborate on exciting software projects!
 
@@ -58,6 +58,9 @@ Thanks for visiting my profile!
 ![photohop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobe-photoshop)
 ![photohop](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-Illustrator&logoColor=FF9A00)
 ![photohop](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-InDesign&logoColor=EE3D8F)
+
+
+<!-- ### Full Stack Projects -->
 
 
 - 📫 How to reach me **nacho@enunpimpam.com**
