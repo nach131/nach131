@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/nach131/nach131/tree/main/Logos/banner.png" width="100%" alt="Banner">
+  <img src="https://github.com/nach131/nach131/blob/main/Logos/banner.png" width="100%" alt="Banner">
 </div>
 
 <h3 align="center">A passionate frontend and Backeend developer from Barcelona</h3>
