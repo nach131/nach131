@@ -23,6 +23,7 @@ Thanks for visiting my profile!
 ![solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![html5](https://img.shields.io/badge/-Html5-000?&logo=html5)
+![css3](https://img.shields.io/badge/-Css3-000?&logo=css3&logoColor=1572B6)
 ![jquery](https://img.shields.io/badge/-JQuery-000?&logo=jquery&logoColor=0769AD)
 ![gnubash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 
