@@ -20,13 +20,14 @@ Thanks for visiting my profile!
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-000?&logo=C)
-![solidity](https://img.shields.io/badge/-solidity-000?&logo=solidity)
+![solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![html5](https://img.shields.io/badge/-html5-000?&logo=html5)
-![jquery](https://img.shields.io/badge/-jquery-000?&logo=jquery&logoColor=0769AD)
+![html5](https://img.shields.io/badge/-Html5-000?&logo=html5)
+![jquery](https://img.shields.io/badge/-JQuery-000?&logo=jquery&logoColor=0769AD)
 ![gnubash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 
 ### Technologies
+![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
@@ -34,28 +35,29 @@ Thanks for visiting my profile!
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![githubactions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
 ![OwnCloud](https://img.shields.io/badge/-OwnCloud-000?&logo=icloud)
-![openvpn](https://img.shields.io/badge/-openvpn-000?&logo=openvpn)
+![openvpn](https://img.shields.io/badge/-OpenVPN-000?&logo=openvpn)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)
 ![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-000?&logo=powerautomate&logoColor=0066FF)
-![apache](https://img.shields.io/badge/-apache-000?&logo=apache&logoColor=D22128)
+![apache](https://img.shields.io/badge/-Apache-000?&logo=apache&logoColor=D22128)
 ![webmin](https://img.shields.io/badge/-webmin-000?&logo=webmin)
 ![blockchaindotcom](https://img.shields.io/badge/-Blockchain-000?&logo=blockchaindotcom)
-![graphql](https://img.shields.io/badge/-graphql-000?&logo=graphql&logoColor=E10098)
-![wordpress](https://img.shields.io/badge/-wordpress-000?&logo=wordpress&logoColor=21759B)
-![markdown](https://img.shields.io/badge/-markdown-000?&logo=markdown)
+![graphql](https://img.shields.io/badge/-GraphQL-000?&logo=graphql&logoColor=E10098)
+![wordpress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress&logoColor=21759B)
+![git](https://img.shields.io/badge/-Git-000?&logo=git)
+![markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 
 ### DataBases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql&logoColor=fff)
-![mysql](https://img.shields.io/badge/-mariadb-000?&logo=mariadb&logoColor=fff)
-![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
+![mysql](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=fff)
+![mysql](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb&logoColor=fff)
+![postgresql](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
 ### Operative Sistems
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![debian](https://img.shields.io/badge/-debian-000?&logo=debian&logoColor=A81D33)
+![debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33)
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)
 ![WServer](https://img.shields.io/badge/-Server-000?&logo=windows&logoColor=17b)
-![raspberry](https://img.shields.io/badge/-Raspberry%20pi-000?&logo=raspberrypi&logoColor=A22846)
+![raspberry](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberrypi&logoColor=A22846)
 
 ### Software
 ![postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=FF6C37)
@@ -73,12 +75,21 @@ Thanks for visiting my profile!
 <!-- [![](https://img.shields.io/badge/🚀%20%20NFS-000)](https://nasa.enunpimpam.com) -->
 
 
-- 📫 How to reach me **nacho@enunpimpam.com**
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
--->
+<!-- - 📫 How to reach me **nacho@enunpimpam.com** -->
+
+How to reach me 
+
+![nacho@enunpimpam.com](https://img.shields.io/badge/nacho@enunpimpam.com---?style=flat-square&color=blue)
+
+<!-- ![nacho@enunpimpam.com](https://img.shields.io/badge/nacho@enunpimpam.com-000?logo=mail.ru&color=blue) -->
+
+<!-- ![nacho@enunpimpam.com](https://img.shields.io/badge/nacho@enunpimpam.com-000?&logo=mail.ru&logoColor=blue) -->
 
 
-<!-- https://simpleicons.org/?q=mysql -->
+<!-- Font Awesome: https://fontawesome.com/icons
+Simple Icons: https://simpleicons.org/
+Devicons: https://devicon.dev/
+Octicons: https://primer.style/octicons/
+Material Design Icons: https://materialdesignicons.com/
+Feather: https://feathericons.com/
+Heroicons: https://heroicons.com/ -->
