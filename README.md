@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Nacho</h1>
+<div align="center">
+  <img src="https://github.com/nach131/nach131/tree/main/Logos/banner.png" width="100%" alt="Banner">
+</div>
+
 <h3 align="center">A passionate frontend and Backeend developer from Barcelona</h3>
 
 - 📫 How to reach me **nacho@enunpimpam.com**
