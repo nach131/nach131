@@ -21,7 +21,7 @@ Thanks for visiting my profile!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-000?&logo=C)
 ![solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 ![html5](https://img.shields.io/badge/-Html5-000?&logo=html5)
 ![css3](https://img.shields.io/badge/-Css3-000?&logo=css3&logoColor=1572B6)
 ![jquery](https://img.shields.io/badge/-JQuery-000?&logo=jquery&logoColor=0769AD)
@@ -72,7 +72,7 @@ Thanks for visiting my profile!
 
 [![](https://img.shields.io/badge/My%20Wiki-000?&logo=wikipedia)](https://wiki.enunpimpam.com)
 [![](https://img.shields.io/badge/Cloud%20Fondesal-000?&logo=icloud)](https://cloud.fondesal.com/)
-<!-- [![](https://img.shields.io/badge/🚀%20%20NASA-000)](https://nasa.enunpimpam.com) -->
+[![](https://img.shields.io/badge/🚀%20%20nasa.enunpimpam.com-000)](https://nasa.enunpimpam.com)
 <!-- [![](https://img.shields.io/badge/🚀%20%20NFS-000)](https://nasa.enunpimpam.com) -->
 
 
