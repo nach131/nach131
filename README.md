@@ -33,11 +33,14 @@ Thanks for visiting my profile!
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![githubactions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
 ![OwnCloud](https://img.shields.io/badge/-OwnCloud-000?&logo=icloud)
 ![openvpn](https://img.shields.io/badge/-OpenVPN-000?&logo=openvpn)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)
+![netgate](https://img.shields.io/badge/-Netgate-000?&logo=netgate)
+![pfsense](https://img.shields.io/badge/-pfSense-000?&logo=pfsense)
+![torproject](https://img.shields.io/badge/-TorProject-000?&logo=torproject&logoColor=7D4698)
 ![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-000?&logo=powerautomate&logoColor=0066FF)
 ![apache](https://img.shields.io/badge/-Apache-000?&logo=apache&logoColor=D22128)
 ![webmin](https://img.shields.io/badge/-webmin-000?&logo=webmin)
@@ -59,6 +62,7 @@ Thanks for visiting my profile!
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)
 ![WServer](https://img.shields.io/badge/-Server-000?&logo=windows&logoColor=17b)
 ![raspberry](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberrypi&logoColor=A22846)
+![pihole](https://img.shields.io/badge/-Pi--Hole-000?&logo=pihole&logoColor=96060C)
 
 ### Software
 ![postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=FF6C37)
