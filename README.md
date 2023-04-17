@@ -21,7 +21,7 @@ Thanks for visiting my profile!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-000?&logo=C)
 ![solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-000?logo=database&logoColor=white)
 ![html5](https://img.shields.io/badge/-Html5-000?&logo=html5)
 ![css3](https://img.shields.io/badge/-Css3-000?&logo=css3&logoColor=1572B6)
 ![jquery](https://img.shields.io/badge/-JQuery-000?&logo=jquery&logoColor=0769AD)
@@ -38,8 +38,8 @@ Thanks for visiting my profile!
 ![githubactions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
 ![OwnCloud](https://img.shields.io/badge/-OwnCloud-000?&logo=icloud)
 ![openvpn](https://img.shields.io/badge/-OpenVPN-000?&logo=openvpn)
-![netgate](https://img.shields.io/badge/-Netgate-000?&logo=netgate)
-![pfsense](https://img.shields.io/badge/-pfSense-000?&logo=pfsense)
+![netgate](https://custom-icon-badges.demolab.com/badge/-Netgate-000?&logo=netgate&logoColor=1475CF)
+![pfsense](https://img.shields.io/badge/-pfSense-000?&logo=pfsense&logoColor=1475CF)
 ![torproject](https://img.shields.io/badge/-TorProject-000?&logo=torproject&logoColor=7D4698)
 ![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-000?&logo=powerautomate&logoColor=0066FF)
 ![apache](https://img.shields.io/badge/-Apache-000?&logo=apache&logoColor=D22128)
@@ -68,15 +68,15 @@ Thanks for visiting my profile!
 ![postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=FF6C37)
 ![autodesk](https://img.shields.io/badge/-Autodesk-000?&logo=autodesk)
 ![photohop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobe-photoshop)
-![photohop](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-Illustrator&logoColor=FF9A00)
-![photohop](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-InDesign&logoColor=EE3D8F)
+![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-Illustrator&logoColor=FF9A00)
+![InDesign](https://img.shields.io/badge/-Adobe%20InDesign-000?&logo=Adobe-InDesign&logoColor=EE3D8F)
 
 
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/My%20Wiki-000?&logo=wikipedia)](https://wiki.enunpimpam.com)
 [![](https://img.shields.io/badge/Cloud%20Fondesal-000?&logo=icloud)](https://cloud.fondesal.com/)
-[![](https://img.shields.io/badge/🚀%20%20nasa.enunpimpam.com-000)](http://nasa.enunpimpam.com/)
+[![](https://custom-icon-badges.demolab.com/badge/nasa.enunpimpam.com-000?&logo=rocket)](http://nasa.enunpimpam.com/)
 <!-- [![](https://img.shields.io/badge/🚀%20%20NFS-000)](https://nasa.enunpimpam.com) -->
 
 
@@ -90,6 +90,7 @@ How to reach me
 
 <!-- ![nacho@enunpimpam.com](https://img.shields.io/badge/nacho@enunpimpam.com-000?&logo=mail.ru&logoColor=blue) -->
 
+<!-- https://github.com/DenverCoder1/custom-icon-badges -->
 
 <!-- Font Awesome: https://fontawesome.com/icons
 Simple Icons: https://simpleicons.org/
