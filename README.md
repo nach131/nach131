@@ -39,7 +39,7 @@ Thanks for visiting my profile!
 ![OwnCloud](https://img.shields.io/badge/-OwnCloud-000?&logo=icloud)
 ![openvpn](https://img.shields.io/badge/-OpenVPN-000?&logo=openvpn)
 ![netgate](https://custom-icon-badges.demolab.com/badge/-Netgate-000?&logo=netgate&logoColor=1475CF)
-![pfsense](https://img.shields.io/badge/-pfSense-000?&logo=pfsense&logoColor=1475CF)
+![pfsense](https://img.shields.io/badge/-pfSense-000?&logo=pfsense&)
 ![torproject](https://img.shields.io/badge/-TorProject-000?&logo=torproject&logoColor=7D4698)
 ![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-000?&logo=powerautomate&logoColor=0066FF)
 ![apache](https://img.shields.io/badge/-Apache-000?&logo=apache&logoColor=D22128)
