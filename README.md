@@ -18,14 +18,18 @@ If you're interested in working with me on a project or just want to connect, pl
 Thanks for visiting my profile!
 
 ### Languages
+![gnubash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-000?&logo=C)
-![solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
+![vba](https://custom-icon-badges.demolab.com/badge/-VBA-000?&logo=VBA)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-000?logo=database&logoColor=white)
 ![html5](https://img.shields.io/badge/-Html5-000?&logo=html5)
 ![css3](https://img.shields.io/badge/-Css3-000?&logo=css3&logoColor=1572B6)
 ![jquery](https://img.shields.io/badge/-JQuery-000?&logo=jquery&logoColor=0769AD)
-![gnubash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
+![solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
+![markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
+![mermaid](https://custom-icon-badges.demolab.com/badge/-Mermaid-000?&logo=mermaid)
+![markmap](https://custom-icon-badges.demolab.com/badge/-Markmap-000?&logo=markmap)
 
 ### Technologies
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
@@ -35,6 +39,7 @@ Thanks for visiting my profile!
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![githubactions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
 ![OwnCloud](https://img.shields.io/badge/-OwnCloud-000?&logo=icloud)
 ![openvpn](https://img.shields.io/badge/-OpenVPN-000?&logo=openvpn)
@@ -47,8 +52,6 @@ Thanks for visiting my profile!
 ![blockchaindotcom](https://img.shields.io/badge/-Blockchain-000?&logo=blockchaindotcom)
 ![graphql](https://img.shields.io/badge/-GraphQL-000?&logo=graphql&logoColor=E10098)
 ![wordpress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress&logoColor=21759B)
-![git](https://img.shields.io/badge/-Git-000?&logo=git)
-![markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 
 ### DataBases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
@@ -59,8 +62,8 @@ Thanks for visiting my profile!
 ### Operative Sistems
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33)
+![WServer](https://img.shields.io/badge/-Windows%20Server-000?&logo=windows&logoColor=17b)
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)
-![WServer](https://img.shields.io/badge/-Server-000?&logo=windows&logoColor=17b)
 ![raspberry](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberrypi&logoColor=A22846)
 ![pihole](https://img.shields.io/badge/-Pi--Hole-000?&logo=pihole&logoColor=96060C)
 
