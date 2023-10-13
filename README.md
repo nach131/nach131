@@ -68,12 +68,14 @@ Thanks for visiting my profile!
 ![pihole](https://img.shields.io/badge/-Pi--Hole-000?&logo=pihole&logoColor=96060C)
 
 ### Software
+![sequelpro](https://custom-icon-badges.demolab.com/badge/-Sequel%20Pro-000?&logo=sequelpro)
+![robomongo](https://custom-icon-badges.demolab.com/badge/-Robot%203T-000?&logo=robomongo)
 ![postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=FF6C37)
-![autodesk](https://img.shields.io/badge/-Autodesk-000?&logo=autodesk)
+![autocad](https://custom-icon-badges.demolab.com/badge/_AutoCad-000?&logo=autocad)
 ![photohop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-Illustrator&logoColor=FF9A00)
 ![InDesign](https://img.shields.io/badge/-Adobe%20InDesign-000?&logo=Adobe-InDesign&logoColor=EE3D8F)
-
+![final_cut_pro](https://custom-icon-badges.demolab.com/badge/-Final%20Cut%20Pro-000?&logo=finalcutpro)
 
 ### Full Stack Projects
 
