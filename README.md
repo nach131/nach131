@@ -79,7 +79,7 @@ Thanks for visiting my profile!
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/My%20Wiki-000?&logo=wikipedia)](https://wiki.enunpimpam.com)
+[![](https://img.shields.io/badge/wiki.enunpimpam.com-000?&logo=wikipedia)](https://wiki.enunpimpam.com)
 [![](https://img.shields.io/badge/Cloud%20Fondesal-000?&logo=icloud)](https://cloud.fondesal.com/)
 [![](https://custom-icon-badges.demolab.com/badge/nasa.enunpimpam.com-000?&logo=rocket)](http://nasa.enunpimpam.com/)
 <!-- [![](https://img.shields.io/badge/🚀%20%20NFS-000)](https://nasa.enunpimpam.com) -->
