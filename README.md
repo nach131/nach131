@@ -36,6 +36,7 @@ Thanks for visiting my profile!
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+![vitepress](https://custom-icon-badges.demolab.com/badge/-vitepress-000?logo=vitepress)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
