@@ -79,6 +79,8 @@ Thanks for visiting my profile!
 
 ### Full Stack Projects
 
+[![cpp](https://custom-icon-badges.demolab.com/badge/-CPP%2042%20Project-000?&logo=CPP)](https://nach131.github.io/cpp42projects/)
+[![](https://img.shields.io/badge/wiki.enunpimpam.com-000?&logo=cpp)](https://nach131.github.io/cpp42projects/)
 [![](https://img.shields.io/badge/wiki.enunpimpam.com-000?&logo=wikipedia)](https://wiki.enunpimpam.com)
 [![](https://img.shields.io/badge/Cloud%20Fondesal-000?&logo=icloud)](https://cloud.fondesal.com/)
 [![](https://custom-icon-badges.demolab.com/badge/nasa.enunpimpam.com-000?&logo=rocket)](http://nasa.enunpimpam.com/)
