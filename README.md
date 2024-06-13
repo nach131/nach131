@@ -18,9 +18,12 @@ If you're interested in working with me on a project or just want to connect, pl
 Thanks for visiting my profile!
 
 ### Languages
+
+![C](https://img.shields.io/badge/-000?&logo=C)
+![C++](https://img.shields.io/badge/-CPP-000?&logo=cplusplus&logoColor=1572B6)
+![python](https://img.shields.io/badge/Python-000?&logo=python)
 ![gnubash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-000?&logo=C)
 ![vba](https://custom-icon-badges.demolab.com/badge/-VBA-000?&logo=VBA)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-000?logo=database&logoColor=white)
 ![html5](https://img.shields.io/badge/-Html5-000?&logo=html5)
@@ -65,7 +68,7 @@ Thanks for visiting my profile!
 ![debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33)
 ![WServer](https://img.shields.io/badge/-Windows%20Server-000?&logo=windows&logoColor=17b)
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple)
-![raspberry](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberrypi&logoColor=A22846)
+![raspberry](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberrypi)
 ![pihole](https://img.shields.io/badge/-Pi--Hole-000?&logo=pihole&logoColor=96060C)
 
 ### Software
@@ -80,20 +83,26 @@ Thanks for visiting my profile!
 
 ### Full Stack Projects
 
-[![cpp](https://custom-icon-badges.demolab.com/badge/-CPP%2042%20Project-000?&logo=CPP)](https://nach131.github.io/cpp42projects/)
-[![cpp](https://custom-icon-badges.demolab.com/badge/-42%20NetPractice-000?&logo=feed-forked)](https://nach131.github.io/NetPractice/)
-[![](https://img.shields.io/badge/wiki.enunpimpam.com-000?&logo=cpp)](https://nach131.github.io/cpp42projects/)
-[![](https://custom-icon-badges.demolab.com/badge/nasa.enunpimpam.com-000?&logo=rocket)](http://nasa.enunpimpam.com/)
-<!-- [![](https://img.shields.io/badge/🚀%20%20NFS-000)](https://nasa.enunpimpam.com) -->
 
+[![cpp](https://custom-icon-badges.demolab.com/badge/-CPP%2042%20project-gold?style=for-the-badge&logo=C&logoColor=black)](https://nach131.github.io/cpp42projects/)
+[![Netpractice](https://custom-icon-badges.demolab.com/badge/-42%20NetPractice-gold?style=for-the-badge&logo=feed-forked&logoColor=black)](https://nach131.github.io/NetPractice/)
+[![wiki](https://custom-icon-badges.demolab.com/badge/-wiki.enunpimpam.com-gold?style=for-the-badge&logo=wikipedia&logoColor=black)](https://nach131.github.io/cpp42projects/)
+[![nasa]( https://custom-icon-badges.demolab.com/badge/-nasa.enunpimpam.com-gold?style=for-the-badge&logo=rocket&logoColor=black)](http://nasa.enunpimpam.com/)
+<!-- [![](https://img.shields.io/badge/🚀%20%20NFS-000)](https://nasa.enunpimpam.com) -->
 
 <!-- - 📫 How to reach me **nacho@enunpimpam.com** -->
 
 How to reach me 
 
-![nacho@enunpimpam.com](https://img.shields.io/badge/nacho@enunpimpam.com---?style=flat-square&color=blue)
+[![mail][mail]][mail]
 
-<!-- ![nacho@enunpimpam.com](https://img.shields.io/badge/nacho@enunpimpam.com-000?logo=mail.ru&color=blue) -->
+[mail]: https://custom-icon-badges.demolab.com/badge/nacho@enunpimpam.com-E61B23.svg?logo=mail
+<!-- 
+[![install package][22]][22]
+
+[22]: https://custom-icon-badges.demolab.com/badge/-nasa.enunpimpam.com-gold?style=for-the-badge&logo=c&logoColor=black -->
+
+
 
 <!-- ![nacho@enunpimpam.com](https://img.shields.io/badge/nacho@enunpimpam.com-000?&logo=mail.ru&logoColor=blue) -->
 
