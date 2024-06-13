@@ -86,7 +86,7 @@ Thanks for visiting my profile!
 
 [![cpp](https://custom-icon-badges.demolab.com/badge/-CPP%2042%20project-gold?style=for-the-badge&logo=C&logoColor=black)](https://nach131.github.io/cpp42projects/)
 [![Netpractice](https://custom-icon-badges.demolab.com/badge/-42%20NetPractice-gold?style=for-the-badge&logo=feed-forked&logoColor=black)](https://nach131.github.io/NetPractice/)
-[![wiki](https://custom-icon-badges.demolab.com/badge/-wiki.enunpimpam.com-gold?style=for-the-badge&logo=wikipedia&logoColor=black)](https://nach131.github.io/cpp42projects/)
+[![wiki](https://custom-icon-badges.demolab.com/badge/-wiki.enunpimpam.com-gold?style=for-the-badge&logo=wikipedia&logoColor=black)](https://wiki.enunpimpam.com)
 [![nasa]( https://custom-icon-badges.demolab.com/badge/-nasa.enunpimpam.com-gold?style=for-the-badge&logo=rocket&logoColor=black)](http://nasa.enunpimpam.com/)
 <!-- [![](https://img.shields.io/badge/🚀%20%20NFS-000)](https://nasa.enunpimpam.com) -->
 
