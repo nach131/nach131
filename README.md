@@ -29,18 +29,19 @@ Thanks for visiting my profile!
 ![html5](https://img.shields.io/badge/-Html5-000?&logo=html5)
 ![css3](https://img.shields.io/badge/-Css3-000?&logo=css3&logoColor=1572B6)
 ![jquery](https://img.shields.io/badge/-JQuery-000?&logo=jquery&logoColor=0769AD)
-![solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 ![markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 ![mermaid](https://custom-icon-badges.demolab.com/badge/-Mermaid-000?&logo=mermaid)
 ![markmap](https://custom-icon-badges.demolab.com/badge/-Markmap-000?&logo=markmap)
+<!-- ![solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity) -->
 
 ### Technologies
+![django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![vitepress](https://custom-icon-badges.demolab.com/badge/-vitepress-000?logo=vitepress)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://custom-icon-badges.demolab.com/badge/-AWS-000?&logo=AWS-blanco)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![git](https://img.shields.io/badge/-Git-000?&logo=git)
@@ -50,18 +51,18 @@ Thanks for visiting my profile!
 ![netgate](https://custom-icon-badges.demolab.com/badge/-Netgate-000?&logo=netgate&logoColor=1475CF)
 ![pfsense](https://img.shields.io/badge/-pfsense-000?&logo=pfsense&)
 ![torproject](https://img.shields.io/badge/-TorProject-000?&logo=torproject&logoColor=7D4698)
-![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-000?&logo=powerautomate&logoColor=0066FF)
+![sequelpro](https://custom-icon-badges.demolab.com/badge/-Power%20Automate-000?&logo=power-automate)
 ![apache](https://img.shields.io/badge/-Apache-000?&logo=apache&logoColor=D22128)
 ![webmin](https://img.shields.io/badge/-Webmin-000?&logo=webmin)
 ![blockchaindotcom](https://img.shields.io/badge/-Blockchain-000?&logo=blockchaindotcom)
-![graphql](https://img.shields.io/badge/-GraphQL-000?&logo=graphql&logoColor=E10098)
 ![wordpress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress&logoColor=21759B)
+<!-- ![graphql](https://img.shields.io/badge/-GraphQL-000?&logo=graphql&logoColor=E10098) -->
 
-### DataBases
+### Data Bases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![postgresql](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![mysql](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=fff)
 ![mysql](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb&logoColor=fff)
-![postgresql](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
 ### Operative Sistems
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -72,7 +73,9 @@ Thanks for visiting my profile!
 ![pihole](https://img.shields.io/badge/-Pi--Hole-000?&logo=pihole&logoColor=96060C)
 
 ### Software
+![pgadmin](https://custom-icon-badges.demolab.com/badge/-pgAdmin-000?&logo=pgadmin)
 ![sequelpro](https://custom-icon-badges.demolab.com/badge/-Sequel%20Pro-000?&logo=sequelpro)
+![jupyter](https://custom-icon-badges.demolab.com/badge/-Jupyter-000?&logo=jupyter)
 ![robomongo](https://custom-icon-badges.demolab.com/badge/-Robot%203T-000?&logo=robomongo)
 ![postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=FF6C37)
 ![autocad](https://custom-icon-badges.demolab.com/badge/_AutoCad-000?&logo=autocad)
@@ -84,6 +87,7 @@ Thanks for visiting my profile!
 ### Full Stack Projects
 
 
+[![transcendence](https://custom-icon-badges.demolab.com/badge/-transcendence.com.de-gold?style=for-the-badge&logo=pong&logoColor=black)](https://www.transcendence.com.de)
 [![cpp](https://custom-icon-badges.demolab.com/badge/-CPP%2042%20project-gold?style=for-the-badge&logo=C&logoColor=black)](https://nach131.github.io/cpp42projects/)
 [![Netpractice](https://custom-icon-badges.demolab.com/badge/-42%20NetPractice-gold?style=for-the-badge&logo=feed-forked&logoColor=black)](https://nach131.github.io/NetPractice/)
 [![wiki](https://custom-icon-badges.demolab.com/badge/-wiki.enunpimpam.com-gold?style=for-the-badge&logo=wikipedia&logoColor=black)](https://wiki.enunpimpam.com)
