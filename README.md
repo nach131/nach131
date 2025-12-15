@@ -28,7 +28,7 @@ Always open to new challenges, collaboration with high-performing teams, and bui
 
 [![mail][mail]][mail]
 
-[mail]: https://custom-icon-badges.demolab.com/badge/nacho@enunpimpam.com-E61B23.svg?logo=mail
+[mail]: https://custom-icon-badges.demolab.com/badge/nacho@enunpimpam.com-1bb3e6.svg?logo=mail
 
 ### Languages
 
