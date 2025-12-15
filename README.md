@@ -3,19 +3,32 @@
   <img src="https://github.com/nach131/nach131/blob/main/Logos/banner.png" width="100%" alt="Banner">
 </div>
 
-<h3 align="center">A passionate Frontend and Backend developer</h3>
+<h3 align="center">CTO | Software Director | Full Stack Developer</h3>
 
-Hello! I'm Nacho, a systems engineer and software engineering student at 42 Barcelona. I'm passionate about technology and software development, and I'm constantly learning and improving my skills.
+Hi, I’m **Nacho**, a CTO and Software Director with extensive experience leading the design, development, and deployment of scalable, high-performance software solutions.
 
-Here, you will find a variety of projects that I have worked on, from small personal projects to collaborations with other developers. I like to experiment with different programming languages and technologies.
+I have a strong background as a **Senior Full Stack Developer**, specializing in **Python, React**, and modern **DevOps practices**, with a clear focus on building robust, efficient, and maintainable system architectures. I have successfully led projects end-to-end, from ideation and technical definition to production and scaling.
 
-I specialize in creating scalable, reliable, and efficient software applications.
+In addition, I have hands-on experience in **embedded systems and IoT**, developing innovative solutions using **ESP32 and Teensy**, seamlessly integrating hardware and software to solve real-world problems.
 
-One of my most notable projects is the game [So_Long](https://github.com/nach131/so_long), a simple yet addictive maze game made for 42. I have also worked on the game [Push_Swap](https://github.com/nach131/push_swap_game), an interesting and exciting puzzle game based on the push_swap project from 42.
+- On this profile, you’ll find projects that reflect my focus on:
 
-If you're interested in working with me on a project or just want to connect, please don't hesitate to contact me. I'm excited to meet new people and collaborate on exciting software projects!
+- Software architecture and system design
 
-Thanks for visiting my profile!
+- High-performance web and mobile development
+
+- Automation, CI/CD, and reliable deployments
+
+- Technical leadership and process optimization
+
+- Systems integration and IoT solutions
+
+Always open to new challenges, collaboration with high-performing teams, and building impactful technology products.
+
+
+[![mail][mail]][mail]
+
+[mail]: https://custom-icon-badges.demolab.com/badge/nacho@enunpimpam.com-E61B23.svg?logo=mail
 
 ### Languages
 
@@ -84,23 +97,17 @@ Thanks for visiting my profile!
 ![InDesign](https://img.shields.io/badge/-Adobe%20InDesign-000?&logo=Adobe-InDesign&logoColor=EE3D8F)
 ![final_cut_pro](https://custom-icon-badges.demolab.com/badge/-Final%20Cut%20Pro-000?&logo=finalcutpro)
 
-### Full Stack Projects
 
-
-[![transcendence](https://custom-icon-badges.demolab.com/badge/-transcendence.com.de-gold?style=for-the-badge&logo=pong&logoColor=black)](https://www.transcendence.com.de)
+<!-- [![transcendence](https://custom-icon-badges.demolab.com/badge/-transcendence.com.de-gold?style=for-the-badge&logo=pong&logoColor=black)](https://www.transcendence.com.de)
 [![cpp](https://custom-icon-badges.demolab.com/badge/-CPP%2042%20project-gold?style=for-the-badge&logo=C&logoColor=black)](https://nach131.github.io/cpp42projects/)
 [![Netpractice](https://custom-icon-badges.demolab.com/badge/-42%20NetPractice-gold?style=for-the-badge&logo=feed-forked&logoColor=black)](https://nach131.github.io/NetPractice/)
 [![wiki](https://custom-icon-badges.demolab.com/badge/-wiki.enunpimpam.com-gold?style=for-the-badge&logo=wikipedia&logoColor=black)](https://wiki.enunpimpam.com)
-[![nasa]( https://custom-icon-badges.demolab.com/badge/-nasa.enunpimpam.com-gold?style=for-the-badge&logo=rocket&logoColor=black)](http://nasa.enunpimpam.com/)
+[![nasa]( https://custom-icon-badges.demolab.com/badge/-nasa.enunpimpam.com-gold?style=for-the-badge&logo=rocket&logoColor=black)](http://nasa.enunpimpam.com/) -->
 <!-- [![](https://img.shields.io/badge/🚀%20%20NFS-000)](https://nasa.enunpimpam.com) -->
 
 <!-- - 📫 How to reach me **nacho@enunpimpam.com** -->
 
-How to reach me 
 
-[![mail][mail]][mail]
-
-[mail]: https://custom-icon-badges.demolab.com/badge/nacho@enunpimpam.com-E61B23.svg?logo=mail
 <!-- 
 [![install package][22]][22]
 
